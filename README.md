@@ -1,4 +1,4 @@
-# udacity-front-end-p3
+# Classic Arcade Game Clone
 
 # How do you play the game?
 1. Open the file "index.html" file in your browser.
